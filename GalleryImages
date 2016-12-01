@@ -1,0 +1,23 @@
+<html>
+	<title>Gallery</title>
+	<head>
+		<link rel="stylesheet" type="text/css"
+		href="Gallery.css">
+	</head>
+	<body>
+		<h2 align="center">HEROES</h2>
+		<div>
+		</div>
+		<div class="container">
+			<center><img src="Images/spidey.jpeg"></center>
+		<center><h1>Spiderman</h1></center>
+			<center><img src="Images/captain.jpeg"></center>
+		<center><h1>Captain Murica</center></h1>
+		<center><img src="Images/thanos.jpeg"></center>
+		<center><h1>Thanos</h1></center>
+		<center><h1><img src="Images/captain_marvel.jpeg"></h1></center>
+		<center><h1>Captain Marvel</center></h1>
+		<center><h1><img src="Images/deadpool.jpeg"></center></h1>
+		<center><h1>Deadpool</center></h1>
+	</body>
+</html>
